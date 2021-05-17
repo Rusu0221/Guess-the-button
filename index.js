@@ -1,5 +1,5 @@
 var random = Math.floor(Math.random() * 3) + 1;
-var txt = document.getElementById("afisaj");
+var txt = document.getElementById("display");
 var score = 0, round = 0, double = 0;
 
 function button(x) {
